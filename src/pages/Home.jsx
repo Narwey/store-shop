@@ -5,8 +5,8 @@ import PopularNow from '../components/PopularNow'
 export default function store() {
   return (
     <>
-      {/* <Navbar /> */}
-      <PopularNow />
+      <Navbar />
+      {/* <PopularNow/> */}
     </>
   )
 }
