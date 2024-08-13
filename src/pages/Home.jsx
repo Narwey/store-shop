@@ -1,14 +1,16 @@
 import React from 'react'
-import Navbar from '../components/navbar'
+import NavBarComp from '../components/NavBarComp'
 import PopularNow from '../components/PopularNow'
 import JustDropped from '../components/JustDropped'
 import narutoBanner from '../assets/tshirt-anime.png'
 import Footer from '../components/Footer'
+import NewCollection from '../components/NewCollection'
 
 export default function store() {
   return (
     <>
-      {/* <Navbar /> */}
+      {/* <NavBarComp /> */}
+      <NewCollection/>
       <PopularNow />
       <JustDropped />
       <section className='container mx-auto max-w-7xl px-4 mt-20'>
