@@ -7,7 +7,7 @@ import NewCollection from '../components/NewCollection'
 export default function store() {
   return (
     <>
-      {/* <NavBarComp /> */}
+      <NavBarComp />
       <NewCollection/>
       <PopularNow />
       <JustDropped />
