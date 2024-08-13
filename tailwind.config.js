@@ -7,7 +7,12 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      anton: ['Anton', 'sans-serif']
+      anton: ['Anton', 'sans-serif'],
+      aBeeZee: ['ABeeZee', 'sans-serif'],
+      alatsi: ['alatsi', 'sans-serif'],
+      acme: ['acme', 'sans-serif'],
+      abhayaLibre: ['Abhaya Libre', 'sans-serif'],
+      koulen: ['koulen', 'sans-serif'],
     }
   },
   plugins: [],
