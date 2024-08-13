@@ -6,7 +6,7 @@ export default function NewCollection() {
   return (
     <section className="container mx-auto max-w-7xl px-3">
       <div className='flex flex-col items-center gap-2'>
-        <h1 className="text-lg md:text-6xl font-koulen">WHERE STYLE SPEAKS,TRENDS RESONATE,</h1>
+        <h1 className="text-lg md:text-6xl font-koulen mt-8">WHERE STYLE SPEAKS,TRENDS RESONATE,</h1>
         <h1 className='text-xl md:text-7xl font-bold font-inter '>Fashion Flourishes</h1>
         <p className='text-sm font-abhayaLibre text-center max-w-2xl mt-2'>
           at DRAKS , we blend creativity with craftsmanship to create fashion
