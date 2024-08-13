@@ -13,6 +13,7 @@ export default {
       acme: ['acme', 'sans-serif'],
       abhayaLibre: ['Abhaya Libre', 'sans-serif'],
       koulen: ['koulen', 'sans-serif'],
+      inter: ['inter','sans-serif']
     }
   },
   plugins: [],
